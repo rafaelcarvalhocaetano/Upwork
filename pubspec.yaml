@@ -23,6 +23,7 @@ flutter:
 
   assets:
     - images/logo.png
+    - images/checked.svg
   fonts:
     - family: Rubik
       fonts:
